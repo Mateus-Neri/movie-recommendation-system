@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System - Backend
 
 API de recomendação de filmes baseada em **Content-Based Filtering**.
 
